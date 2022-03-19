@@ -33,22 +33,22 @@ async def cbstart(_, query: CallbackQuery):
                         url=f"https://t.me/USDDBOT?startgroup=truehttps://t.me/USDDBOT?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("❓ طريقة التفعيل", callback_data="cbhowtouse")],
+                [InlineKeyboardButton("طـريـقه استخـدام البـوتᐬ", callback_data="cbhowtouse")],
                 [
-                    InlineKeyboardButton("📚 الاوامر", callback_data="cbcmds"),
-                    InlineKeyboardButton("❤️ المطور", url=f"https://t.me/{OWNER_NAME}"),
+                    InlineKeyboardButton("الاوامــرᐬ", callback_data="cbcmds"),
+                    InlineKeyboardButton("مطــور البـوت♡", url=f"https://t.me/{OWNER_NAME}"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "👥 جروب الدعم", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "جـروب الـدعمᐬ", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "📣 قناة البوت", url=f"https://t.me/FA9SH"
+                        "قنـاه السـورسᐬ", url=f"https://t.me/L_S_A_V_O"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "𓌹●↯‌•ʙᴏᴛ ѕʜᴀᴅᴏᴡ•↯●𓌺", url="https://t.me/USDDBOT?startgroup=true"
+                        "「 ســــافو ص دلــــتـــا × 」", url="https://t.me/USDDBOT?startgroup=true"
                     )
                 ],
             ]
